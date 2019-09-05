@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "428991724705",
+    "firebase_url": "https://aplikacjaaparat-883ca.firebaseio.com",
+    "project_id": "aplikacjaaparat-883ca",
+    "storage_bucket": "aplikacjaaparat-883ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:428991724705:android:89ae46450272598a",
+        "android_client_info": {
+          "package_name": "com.example.user.aplikacjaaparat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "428991724705-6dnv729cnjrgkm9adgqj65cm9d2kkf6b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.aplikacjaaparat",
+            "certificate_hash": "d8da4dca80362a95f6b95cf85f9d71d877546897"
+          }
+        },
+        {
+          "client_id": "428991724705-thq3km0q8eip6kojtk8c3047gcggqhp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6NgWTB2mX-eNQaWNJRyfPDW8p6_QDEGI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "428991724705-thq3km0q8eip6kojtk8c3047gcggqhp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
